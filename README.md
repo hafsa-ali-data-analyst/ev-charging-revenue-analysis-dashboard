@@ -36,7 +36,6 @@ The analysis was performed on **6000+ EV charging records**, providing meaningfu
   - Charging Sessions
   - Energy Consumed
   - Average Customer Rating
-
 - Revenue analysis by vehicle type
 - City-wise revenue comparison
 - Charging station type distribution
