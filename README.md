@@ -101,7 +101,7 @@ Improving station maintenance, reducing waiting time, and enhancing customer sup
 The dashboard below provides interactive insights into EV charging trends, revenue performance, customer behavior, and energy consumption patterns.
 
 <p align="center">
-<img src="dashboard.png" width="700"/>
+<img src="dashboard.png" width="850"/>
 </p>
 
 ---
